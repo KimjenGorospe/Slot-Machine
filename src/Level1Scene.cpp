@@ -14,8 +14,8 @@ Level1Scene::~Level1Scene()
 void Level1Scene::draw()
 {
 	m_pStartButton->draw();
-	m_pResetButton->draw();
-	m_pQuitButton->draw();
+	//m_pResetButton->draw();
+	//m_pQuitButton->draw();
 }
 
 void Level1Scene::update()

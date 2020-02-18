@@ -1,1 +1,14 @@
-﻿  Template.vcxproj -> C:\Users\kimje\Documents\GitHub\Slot-Machine\bin\Debug\Template.exe
+﻿  Level1Scene.cpp
+C:\Users\kimje\Documents\GitHub\Slot-Machine\src\Level1Scene.cpp(44,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kimje\Documents\GitHub\Slot-Machine\src\Level1Scene.cpp(45,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  StartButton.cpp
+  Generating Code...
+  Template.vcxproj -> C:\Users\kimje\Documents\GitHub\Slot-Machine\bin\Debug\Template.exe

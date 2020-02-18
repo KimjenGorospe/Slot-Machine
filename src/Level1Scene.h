@@ -4,6 +4,8 @@
 
 #include "Scene.h"
 #include "StartButton.h"
+#include "ResetButton.h"
+#include "QuitButton.h"
 
 class Level1Scene : public Scene
 {
@@ -26,6 +28,10 @@ private:
 	glm::vec2 m_mousePosition;
 	
 	StartButton* m_pStartButton;
+
+	ResetButton* m_pResetButton;
+	
+	QuitButton* m_pQuitButton;
 };
 
 #endif /* defined (__LEVEL_1_SCENE__) */
